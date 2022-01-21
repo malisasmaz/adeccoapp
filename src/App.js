@@ -18,16 +18,6 @@ function App() {
         </Routes>
       </BrowserRouter>
     </div >
-    // <Router>
-    //   <div className="main">
-    //     <div>
-    //       <Route exact path='/' component={HomePage} />
-    //     </div>
-    //     <div>
-    //       <Route exact path='/detail' component={HomePage} />
-    //     </div>
-    //   </div>
-    // </Router>
   );
 }
 
